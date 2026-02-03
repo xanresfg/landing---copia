@@ -150,7 +150,8 @@ main {
 }
 
 button.comprar {
-    background-color: greenyellow;
+    background-color: #2f82ff;
+    width: 100%;
 }
 
 .tiers ul {
